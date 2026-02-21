@@ -17,6 +17,5 @@ This project demonstrates how to automate the deployment of a Linux web server u
 5. Service Management: Restarts Nginx to apply changes instantly.
 
 ## How to Run
-Bash
 chmod +x provision.sh
 sudo ./provision.sh
